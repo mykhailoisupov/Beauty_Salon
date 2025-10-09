@@ -1,6 +1,6 @@
 # clients, beauty_creators, inventory, schedule, price_list
 
-  CREATE DATABASE BEAUTYBASE;
+CREATE DATABASE BEAUTYBASE;
 USE BEAUTYBASE;
 
 CREATE TABLE clients (
